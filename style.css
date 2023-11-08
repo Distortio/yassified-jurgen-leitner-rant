@@ -74,6 +74,7 @@ p{
 
 a{
     background-color: rgb(85, 100, 113);
+    text-wrap: wrap;
 }
 
 .yiddish{
