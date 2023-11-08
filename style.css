@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(45, 45, 80);
+    font-weight: 700;
+    font-family: Courier, monospace;
+}
+
+h1{
+    color: rgb(152, 87, 218);
+    font-weight: 300;
+    text-align: center;
+    font-family: Courier, monospace;
+    text-shadow: 3px 3px 4px black;
+}
+
+.main{
+    background-color: rgb(57, 57, 94);
+    
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 3rem;
+}
+.piss{
+    color: rgb(186, 186, 10);
+}
+
+.whore{
+    letter-spacing: 4px;
+    color: pink;
+    text-shadow: 2px -2px 3px black;
+}
+p{
+    text-align: justify;
+    
+}
+
+.get_away{
+    letter-spacing: 3px;
+    color: rgb(208, 239, 218);
+    /* background-color: rgb(138, 181, 218); */
+}
+
+.gods_feet{
+    color: greenyellow;
+    letter-spacing: 2px;
+}
+.hell{
+    color: rgb(231, 102, 47);
+}
+
+.jurgen{
+    color: rgb(154, 80, 223);
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 4px black;
+
+
+}
+.xd{
+    color: pink;
+    letter-spacing: 1px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+}
+
+.crusty{
+    color: rgb(255, 181, 85);
+    letter-spacing: 1px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+}
+
+a{
+    background-color: rgb(85, 100, 113);
+}
+
+.yiddish{
+    color: red;
+    letter-spacing: 1px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px black;
+}
