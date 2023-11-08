@@ -72,14 +72,16 @@ p{
     text-shadow: 2px 2px 2px black;
 }
 
-a{
-    background-color: rgb(85, 100, 113);
-    text-wrap: wrap;
-}
+
 
 .yiddish{
     color: red;
     letter-spacing: 1px;
     font-style: italic;
     text-shadow: 2px 2px 2px black;
+}
+
+.paypal{
+    color: rgb(13, 13, 213);
+    text-decoration: underline;
 }
